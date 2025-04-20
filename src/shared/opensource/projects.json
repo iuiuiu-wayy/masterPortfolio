@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "name": "Ai-Doc",
+      "createdAt": "2025-03-23T04:18:19Z",
+      "url": "https://github.com/iuiuiu-wayy/AiDoc",
+      "description": "🤖 PDF docs finder (AI-powered PDF search tool). Utilizing RAG (retrieval-augmented generation) to search relatable content.",
       "isFork": false,
       "languages": [
         {
@@ -13,87 +13,103 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "FastAPI",
+          "iconifyClass": "skill-icons:fastapi"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "TypeScript",
+          "iconifyClass": "skill-icons:typescript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Qdrant",
+          "iconifyClass": "logos-qdrant-icon"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "CovidPollutantDashboard",
+      "createdAt": "2021-10-19T16:51:16Z",
+      "url": "https://github.com/iuiuiu-wayy/CovidPollutantMonitoring",
+      "description": "📊 A web application that provides a comprehensive overview of the correlation between COVID-19 cases and air pollution levels in Malaysia.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos-postgresql"
+        },
+        {
+          "name": "Plotly",
+          "iconifyClass": "devicon:plotly"
+        },
+        {
+          "name": "Google Earth Engine",
+          "iconifyClass": "simple-icons:googleearthengine"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "SEACOAPP",
+      "createdAt": "2021-03-23T05:29:30Z",
+      "url": "https://github.com/iuiuiu-wayy/SEACOAPP",
+      "description": "🌍 Southeast Asia Climate-Ocean App (SEACOAPP) is a web application that provides sea-level rise climate change projections for Southeast Asia region.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Plotly",
+          "iconifyClass": "devicon:plotly"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Flask",
+          "iconifyClass": "devicon:flask"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "ExtremeAnalysis",
+      "createdAt": "2021-07-07T07:56:11Z",
+      "url": "https://github.com/iuiuiu-wayy/ExtremeAnalysis",
+      "description": "📈 Performed statistical downscaling of multiple Global Circulation Model (GCM) on multiple city in Indonesia.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Scipy",
+          "iconifyClass": "simple-icons:scipy"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Matplotlib",
+          "iconifyClass": "devicon:matplotlib"
         }
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "Ogimet",
+      "createdAt": "2019-11-13T02:43:02Z",
+      "url": "https://github.com/iuiuiu-wayy/Ogimet",
+      "description": "🌦️ A simple web scrapper script to get weather data from Ogimet.com in CSV format.",
       "isFork": false,
       "languages": [
         {
@@ -104,19 +120,19 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "name": "Personal Neovim Config",
+      "createdAt": "2025-03-23T05:53:53Z",
+      "url": "https://github.com/iuiuiu-wayy/Personal-Nvim-config",
+      "description": "💻 Personal Neovim configurations.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Neovim",
+          "iconifyClass": "devicon:neovim"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Lua",
+          "iconifyClass": "logos-lua"
         }
       ]
     }
