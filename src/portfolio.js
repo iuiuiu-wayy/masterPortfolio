@@ -20,9 +20,9 @@ const seo = {
 const greeting = {
   title: "Imam Wahyu Amanullah",
   logo_name: "Imam Wahyu Amanullah",
-  nickname: "wayy",
+  nickname: "wahyu",
   subTitle: "A software engineer who loves to work on fun projects.",
-  resumeLink: "amanullah.work",
+  resumeLink: "https://amanullah.work",
   portfolio_repository: "https://github.com/iuiuiu-wayy/masterPortfolio",
   githubProfile: "https://github.com/iuiuiu-wayy",
 };
@@ -146,6 +146,13 @@ const skills = {
         {
           skillName: "Docker Swarm",
           imageSrc: "dockerswarm.png",
+        },
+        {
+          skillName: "Gitlab CI/CD",
+          fontAwesomeClassname: "simple-icons:gitlab",
+          style: {
+            color: "#E24329",
+          },
         },
         {
           skillName: "RabbitMQ",
@@ -347,42 +354,42 @@ const degrees = {
 
 const certifications = {
   certifications: [
-    // {
-    //   title: "Machine Learning",
-    //   subtitle: "- Andrew Ng",
-    //   logo_path: "stanford_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-    //   alt_name: "Stanford University",
-    //   color_code: "#8C151599",
-    // },
-    // {
-    //   title: "Deep Learning",
-    //   subtitle: "- Andrew Ng",
-    //   logo_path: "deeplearning_ai_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-    //   alt_name: "deeplearning.ai",
-    //   color_code: "#00000099",
-    // },
-    // {
-    //   title: "ML on GCP",
-    //   subtitle: "- GCP Training",
-    //   logo_path: "google_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-    //   alt_name: "Google",
-    //   color_code: "#0C9D5899",
-    // },
-    // {
-    //   title: "Data Science",
-    //   subtitle: "- Alex Aklson",
-    //   logo_path: "ibm_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-    //   alt_name: "IBM",
-    //   color_code: "#1F70C199",
-    // },
+    {
+      title: "Machine Learning",
+      subtitle: "- Andrew Ng",
+      logo_path: "stanford_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+      alt_name: "Stanford University",
+      color_code: "#8C151599",
+    },
+    {
+      title: "Deep Learning",
+      subtitle: "- Andrew Ng",
+      logo_path: "deeplearning_ai_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+      alt_name: "deeplearning.ai",
+      color_code: "#00000099",
+    },
+    {
+      title: "ML on GCP",
+      subtitle: "- GCP Training",
+      logo_path: "google_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+      alt_name: "Google",
+      color_code: "#0C9D5899",
+    },
+    {
+      title: "Data Science",
+      subtitle: "- Alex Aklson",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
     // {
     //   title: "Big Data",
     //   subtitle: "- Kim Akers",
@@ -478,7 +485,7 @@ const experience = {
           duration: "March 2022 - Present",
           location: "Copenhagen, Denmark (Remote)",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "Developing AI SaaS platform for the company. The platform is used to build and deploy machine learning models. I am mainly working on backend development using FastAPI, Falsk, PostgreSQL, Docker, and RabbitMQ. I am also responsible for building and maintaining the CI/CD pipeline using Gitlab CI/CD.",
           color: "#000000",
         },
         {
@@ -487,9 +494,9 @@ const experience = {
           company_url: "https://fmipa.ipb.ac.id/?page_id=3149",
           logo_path: "ipb.png",
           duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          location: "Bogor, Indonesia",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Involved in numerous projects related to weather prediction, climate projection, hydrometeorological disasters, and automated systems. I am responsible for developing a daily weather prediction pipeline using WRF model and building a web application to visualize the weather data.",
           color: "#0879bf",
         },
       ],
@@ -646,9 +653,9 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
-    // description:
-    //   "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+    profile_image_path: "wayy2.png",
+    description:
+      "Feel free to message me. I am open to discussing new projects, creative ideas or opportunities to be part of your visions. Currently, I am living in +8 GMT timezone so please expect a delay in my response.",
   },
   blogSection: {
     title: '"It\'s all talk until the code runs."',
