@@ -46,6 +46,7 @@
 
 .body-header-duration {
   width: 20%;
+  align-items: flex;
 }
 .duration {
   font-family: "Google Sans Regular";
@@ -53,6 +54,15 @@
   /* color: #212121; */
   padding-right: 10px;
   float: right;
+}
+
+.location {
+  font-family: "Google Sans Regular";
+  font-size: 16px;
+  /* color: #212121; */
+  padding-right: 10px;
+  float: right;
+  margin-top: 0px;
 }
 
 .body-content {
@@ -125,7 +135,11 @@
   }
 
   .duration {
-    padding: 0px;
+    margin: 0px;
+    float: left;
+  }
+
+  .location {
     margin: 0px;
     float: left;
   }

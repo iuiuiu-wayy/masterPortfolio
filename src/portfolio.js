@@ -328,6 +328,7 @@ const degrees = {
       subtitle: "M.S. in Computer Science",
       logo_path: "utem.png",
       alt_name: "IIITDM Kurnool",
+      location: "Malacca, Malaysia",
       duration: "2019 - 2021",
       descriptions: [
         "⚡ Studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
@@ -339,6 +340,7 @@ const degrees = {
     {
       title: "Institut Pertanian Bogor (IPB University)",
       subtitle: "B.S. in Applied Meteorology",
+      location: "Bogor, Indonesia",
       logo_path: "ipb.png",
       alt_name: "Indiana University Bloomington",
       duration: "2014 - 2019",
