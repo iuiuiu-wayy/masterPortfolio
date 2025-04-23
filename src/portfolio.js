@@ -20,7 +20,7 @@ const seo = {
 const greeting = {
   title: "Imam Wahyu Amanullah",
   logo_name: "Imam Wahyu Amanullah",
-  nickname: "wahyu",
+  nickname: "Wahyu",
   subTitle: "A software engineer who loves to work on fun projects.",
   resumeLink: "https://amanullah.work",
   portfolio_repository: "https://github.com/iuiuiu-wayy/masterPortfolio",
@@ -61,8 +61,8 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building backend and frontend applications using frameworks",
-        "⚡ Building AI platform with web interface",
+        "⚡ Build backend and frontend applications using frameworks",
+        "⚡ Build AI platform with web interface",
       ],
       softwareSkills: [
         {
@@ -132,8 +132,8 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Maintining and deploying microservies on cloud",
-        "⚡ Deploying AI models on cloud",
+        "⚡ Maintain and deploy microservices on cloud",
+        "⚡ Deploy AI models on cloud",
       ],
       softwareSkills: [
         {
@@ -178,9 +178,9 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Scraping data from various sources and cleaning it for analysis",
-        "⚡ Analyzing satellite images",
-        "⚡ Developing natural language processing model.",
+        "⚡ Scrape data from various sources and cleaning it for analysis",
+        "⚡ Analyze satellite images",
+        "⚡ Develop language processing model.",
       ],
       softwareSkills: [
         {
@@ -225,10 +225,10 @@ const skills = {
       title: "Weather and Climate",
       fileName: "WeatherForecastImg",
       skills: [
-        "⚡ Developing daily weather forecast pipeline",
-        "⚡ Performing paralled waather model execution on multiple nodes",
-        "⚡ Building web application to visualize weather and climate data",
-        "⚡ Performed Global Climate Model (GCM) downscaling using regional climate model (RCM)",
+        "⚡ Develop daily weather forecast pipeline",
+        "⚡ Perform paralled weather model execution on multiple nodes",
+        "⚡ Build web application to visualize weather and climate data",
+        "⚡ Perform Global Climate Model (GCM) downscaling using Regional Climate Model (RCM)",
       ],
       softwareSkills: [
         {
