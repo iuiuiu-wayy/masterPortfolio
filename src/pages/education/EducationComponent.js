@@ -22,10 +22,6 @@ class Education extends Component {
             <div className="heading-div">
               <div className="heading-img-div">
                 <EducationImg theme={theme} />
-                <img
-                  src={require("../../assets/images/education.svg")}
-                  alt=""
-                />
               </div>
               <div className="heading-text-div">
                 <h1 className="heading-text" style={{ color: theme.text }}>
